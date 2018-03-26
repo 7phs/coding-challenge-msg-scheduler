@@ -1,0 +1,6 @@
+email,text,schedule
+test@test.test,"Hi Vincenty, your invoice about $1.99 is due.",8s-14s-20s
+test2@test.test,"Hola Elspeth, aun tienes un pago de $4.55 pendiente.",0s-18s
+test3@test.test,"Dear Mr. Skentelbery, you still have an outstanding amount of $152.87 for your loan.",3s-7s-18s
+test4@test.test,"Hello Charin, we want to remind you, that your payment of $12.09 is still outstanding",6s
+test5@test.test,"Hallo Ricki, für deine Bestellung über 72.56€ konnten wir leider noch keine Zahlung feststellen.",2s-11s-19s
